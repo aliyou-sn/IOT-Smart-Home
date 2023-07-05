@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<h3 align="center">Smart Socket v1.0</h3>
+<h3 align="center"> Smart Home </h3>
 
 
 
@@ -21,19 +21,17 @@ This is a IOT based smart home designed by the NITHUB IOT ECOSYSTEM
 
 3D model:
 <a href="">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home.jpeg">
+        <img width=800px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home.jpeg">
     </a>
 
 Dashboard:
 
 <a href="">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home%201.jpeg" alt="Smart Socket">
+        <img width=800px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home%201.jpeg" alt="Smart Socket">
     </a>
-PCB:
 
-<a href="">
-        <img width=1000px height=600px src = "https://github.com/aliyou-sn/Smart-Socket/blob/main/images/PCB3D.png" alt="Smart Socket">
-    </a>
+
+
 
 
 

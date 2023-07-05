@@ -20,8 +20,8 @@ This is a IOT based smart home designed by the NITHUB IOT ECOSYSTEM
 ## Screenshots
 
 3D model:
-<a href="">
-        <img width=800px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home.jpeg">
+
+<img width=800px height=600px src = "https://github.com/aliyou-sn/IOT-Smart-Home/blob/main/Pictures/home.jpeg" alt="Smart Socket">
     </a>
 
 Dashboard:
